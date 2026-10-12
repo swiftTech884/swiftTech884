@@ -1,0 +1,6 @@
+# Obsidian の端末ごとの状態ファイル
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/realclaudian/data.json
+.trash/
+.DS_Store
