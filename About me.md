@@ -1,7 +1,7 @@
 ---
 title: About me
 aliases:
-  - Tak884
+  - 自己紹介
   - プロフィール
 tags:
   - profile
